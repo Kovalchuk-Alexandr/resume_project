@@ -299,6 +299,17 @@ body {
   color: #6d9bf5;
 }
 
+.basic-list-item {
+  margin-top: 5px;
+  list-style-type: none;
+  /* text-decoration: underline; */
+}
+
+.basic-list-title {
+  margin-top: 10px;
+  margin-bottom: 2px;
+}
+
 .skills-list-text {
   font-style: normal;
   font-weight: 400;
